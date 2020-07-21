@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "250220152816",
+    "firebase_url": "https://planto-d15ec.firebaseio.com",
+    "project_id": "planto-d15ec",
+    "storage_bucket": "planto-d15ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250220152816:android:689e59cd8722fe8d373f35",
+        "android_client_info": {
+          "package_name": "com.example.finplanto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250220152816-l5ng3i5llqbtk8up1fdgdqus4h0hipes.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.finplanto",
+            "certificate_hash": "26577d43e803f1de38c25224fa22d7279e27fad9"
+          }
+        },
+        {
+          "client_id": "250220152816-3vnr01jt8lnqjkuj2kheqe83kfdermsm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2erXKlSFL0C8PLznM1Y68oDII_5jYBGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250220152816-3vnr01jt8lnqjkuj2kheqe83kfdermsm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
